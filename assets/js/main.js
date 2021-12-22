@@ -229,3 +229,14 @@
   });
 
 })()
+
+
+// Hardik js
+document.getElementById("reg").onclick=function(){register1()}
+function register1(){
+  document.getElementById("reg1").innerHTML="#Coming Soon#"
+}
+document.getElementById("reg2").onclick=function(){register2()}
+function register2(){
+  document.getElementById("reg3").innerHTML="#Coming Soon#"
+}
